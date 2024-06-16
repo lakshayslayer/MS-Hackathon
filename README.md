@@ -1,4 +1,4 @@
-Certainly! Here's a more polished version for your GitHub repo README:
+
 
 # Fake News Detection System
 
